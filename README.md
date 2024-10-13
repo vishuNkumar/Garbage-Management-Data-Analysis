@@ -19,3 +19,13 @@ The sample size of 500 households seems reasonable for drawing conclusions about
   Satisfaction with the government’s waste removal services and awareness of penalties was also gauged through opinion-based questions, using **Likert scales** or simple “Yes/No” questions.
 ## 4. Survey Findings
 After collection the data firstly we clean the data using **Excel** and then analyse the data to take decision for healthy environment. Here is the screenshot of cleaned data
+![Screenshot 2024-10-12 144733](https://github.com/user-attachments/assets/7863113d-e9ae-4a1b-bdc9-c69069a45cdb) 
+then we create the pivot table to analyze data, answer questions, and make decisions.
+- *Pivot Table* : A pivot table is a tool that summarizes large amounts of data in an interactive way. It's used to analyze data, answer questions, and make decisions.
+  - How can we use Pivot Table ?
+    - Rearrange data: Move rows and columns around to compare data in different ways.
+    - Categorize data: Group measures into categories that appear as rows or columns in the pivot table.
+    - Filter data: Choose which data to show in the pivot table.
+    - Summarize data: Use statistics like count, average, sum, or min to summarize the values in a measure.
+    - Refresh data: When the original data is updated, the pivot table can be refreshed to reflect the new information.
+  
