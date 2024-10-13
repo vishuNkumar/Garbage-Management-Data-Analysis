@@ -18,3 +18,4 @@ The sample size of 500 households seems reasonable for drawing conclusions about
   ### (c) Satisfaction and Opinion Polling:
   Satisfaction with the government’s waste removal services and awareness of penalties was also gauged through opinion-based questions, using **Likert scales** or simple “Yes/No” questions.
 ## 4. Survey Findings
+After collection the data firstly we clean the data using **Excel** and then analyse the data to take decision for healthy environment. Here is the screenshot of cleaned data
