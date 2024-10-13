@@ -62,5 +62,5 @@ then we create the pivot table to analyze data, answer questions, and make decis
     - 103 households (20.6%) are fully satisfied with the current waste management system.
     - 101 households (20.2%) are completely dissatisfied with the system.
     - 95 households (19%) have moderate satisfaction.
-      
-Then after the analysis part we make a report, here is some result of report   
+## 5. Dashboard
+
