@@ -62,5 +62,8 @@ then we create the pivot table to analyze data, answer questions, and make decis
     - 103 households (20.6%) are fully satisfied with the current waste management system.
     - 101 households (20.2%) are completely dissatisfied with the system.
     - 95 households (19%) have moderate satisfaction.
-## 5. Dashboard
-
+## 5. Dashboard Using Excel
+![Screenshot 2024-10-12 144928](https://github.com/user-attachments/assets/dd4841db-e4aa-4897-abd4-1a7541be76ec)
+![Screenshot 2024-10-12 145005](https://github.com/user-attachments/assets/85b9fbba-5a5b-4984-8e4a-9c6d35b414e6)
+## Conclusion 
+The survey data from 500 households indicates that waste management practices need significant improvement. Only 245 households (49%) segregate waste, while 255 (51%) do not. Out of 170 households that dispose of waste by roadside bins, only 84 (49%) segregate it. Waste recycling is also low, with 154 households generating 1-2 kg of waste daily, but only 72 (47%) recycle it. Similarly, among 164 households generating less than 1 kg, only 79 (48%) recycle. Satisfaction with government services shows that only 103 households (20.6%) are fully satisfied, while 101 (20.2%) express complete dissatisfaction.
