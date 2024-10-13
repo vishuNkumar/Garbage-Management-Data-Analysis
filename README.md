@@ -28,4 +28,39 @@ then we create the pivot table to analyze data, answer questions, and make decis
     - Filter data: Choose which data to show in the pivot table.
     - Summarize data: Use statistics like count, average, sum, or min to summarize the values in a measure.
     - Refresh data: When the original data is updated, the pivot table can be refreshed to reflect the new information.
+![Screenshot 2024-10-12 144750](https://github.com/user-attachments/assets/f62b6a3a-5354-45b2-8fd0-001ee9592c08)
+- **Analysis Part :**
+  - (a). Household Waste Disposal Methods:
+    - Out of the 500 households surveyed, the methods for waste disposal were,
+    - 170 households dispose of waste in roadside dustbins.
+    - 160 households use door-to-door collection services.
+    - 170 households dispose of waste in personal dustbins.
+  - (b). Waste Segregation:
+    - 245 households (49%) segregate their waste into wet and dry categories.
+    - 255 households (51%) do not segregate their waste.
+    - Of the 170 households that dispose of waste in roadside dustbins, only 84 households (49%) segregate their waste.
+  - (c). Frequency of Waste Disposal:
+    - 174 households dispose of their waste daily.
+    - 154 households dispose of their waste every three days.
+    - 176 households dispose of their waste every two days.
+    - ***The distribution of households disposing of waste in the morning:***
+      - 42 households dispose of waste daily in the morning.
+      - 38 households dispose of waste every three days in the morning.
+      - 45 households dispose of waste every two days in the morning.
+  - (d). Recycling of Waste:
+    - 154 households generate between 1-2 kg of waste daily, and 72 of them (47%) recycle their waste.
+    - 164 households generate less than 1 kg of waste daily, and 79 of them (48%) recycle.
+    - 182 households generate more than 2 kg of waste daily, and 84 of them (46%) recycle.
+  - (e). Training Interest in Waste Disposal:
+    - 265 households expressed an interest in attending training sessions on proper household waste disposal.
+    - Of these, 137 households already compost organic waste but are still interested in further training.
+    - 119 households do not compost waste and are not interested in attending the training sessions.
+  - (f). Awareness of Penalties for Not Segregating Waste:
+    - Some households were aware of penalties but still failed to segregate waste daily.
+    - 41 low-income households were aware of penalties yet did not segregate waste.
+  - (g). Satisfaction with Waste Disposal Services:
+    - 103 households (20.6%) are fully satisfied with the current waste management system.
+    - 101 households (20.2%) are completely dissatisfied with the system.
+    - 95 households (19%) have moderate satisfaction.
+ 
   
