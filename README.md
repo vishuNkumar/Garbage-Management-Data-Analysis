@@ -1,4 +1,4 @@
-# Garbage-Management-Data-Analysis
+# Garbage-Management-Data-Analysis-Using-Excel
 ## 1. About Garbage Disposal Management (GDM)
 - Garbage Disposal Management, also referred to as Waste Management, involves handling waste from its inception to its final disposal. The primary aim is to mitigate the negative environmental and health impacts of waste.
 - The survey was conducted among 500 households to understand their waste disposal practices and satisfaction with the current waste management system.
